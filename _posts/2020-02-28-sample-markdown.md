@@ -1,19 +1,21 @@
 ---
 layout: post
 title: Những Sản Phẩm Của Mình!
-subtitle: There's lots to learn!
+subtitle: File: Chào Tân Sinh Viên 20.3 FPoly
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: [star, follow]
+tags: [Photograph]
 comments: true
 mathjax: true
 author: VuSinatra
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+{: .box-secondary}
+Đây là những bức ảnh mình chụp cho CLB Tiếng Anh BeesTalk vào ngày 08/09/2024 để chào mừng các bạn tân sinh viên tới làm những thủ tục cần thiết để chuẩn bị cho việc đi học và mời các bạn tân sinh viên K20.3 tham gia vào CLB Tiếng Anh BeesTalk để gặp gỡ những người bạn mới, làm quen với các anh chị tiền bối và cũng là để các bạn có một môi trường để có thể rèn luyện các kỹ năng tiếng anh của mình!
 
 **Here is some bold text**
+
+This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
 
 ## Here is a secondary heading
 
