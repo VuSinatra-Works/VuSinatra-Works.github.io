@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Những Sản Phẩm Của Mình!
-subtitle: File: Chào Tân Sinh Viên 20.3 FPoly
+title: CLB BeesTalk Chào Tân Sinh Viên K20.3
+subtitle: Những tấm hình mình đã chụp!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Photograph]
