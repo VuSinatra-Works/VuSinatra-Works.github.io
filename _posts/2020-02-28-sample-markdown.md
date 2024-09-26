@@ -3,7 +3,7 @@ layout: post
 title: CLB BeesTalk Chào Tân Sinh Viên K20.3
 subtitle: Những tấm hình mình đã chụp!
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: [star, follow]
 tags: [Photograph]
 comments: true
 mathjax: true
