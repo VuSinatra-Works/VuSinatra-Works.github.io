@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Xin chào mình là Long Vũ!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+Mình đang là sinh viên IT chuyên ngành **Phát Triển Phần Mềm** tại **Cao Đẳng FPT Polytechnic**. Mình có đam mê về chụp ảnh, edit video.
 
 What else do you need?
 
