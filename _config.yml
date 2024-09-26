@@ -21,7 +21,7 @@ author: VuSinatra
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Social Media:
     - Facebook: "https://www.facebook.com/VuSinatra/"
     - Instagram: "https://www.instagram.com/_simply.vu/"
     - Youtube: "https://www.youtube.com/@VuSinatra"
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "vusinatra-works.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
