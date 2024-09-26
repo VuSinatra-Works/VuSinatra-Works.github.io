@@ -10,7 +10,7 @@ mathjax: true
 author: VuSinatra
 ---
 
-{: .box-secondary}
+{: .box-success}
 Đây là những bức ảnh mình chụp cho CLB Tiếng Anh BeesTalk vào ngày 08/09/2024 để chào mừng các bạn tân sinh viên tới làm những thủ tục cần thiết để chuẩn bị cho việc đi học và mời các bạn tân sinh viên K20.3 tham gia vào CLB Tiếng Anh BeesTalk để gặp gỡ những người bạn mới, làm quen với các anh chị tiền bối và cũng là để các bạn có một môi trường để có thể rèn luyện các kỹ năng tiếng anh của mình!
 
 **Here is some bold text**
