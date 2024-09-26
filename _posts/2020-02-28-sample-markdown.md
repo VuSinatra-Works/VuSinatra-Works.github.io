@@ -18,10 +18,14 @@ author: VuSinatra
 ## Đây là một số những bức ảnh mình đã chụp tại quầy của **[CLB Tiếng Anh BeesTalk](https://www.facebook.com/beestalkfpoly)**!
 
 
-![BT](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-![BT](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-![BT](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-![BT](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07241.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07213.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07247.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07235.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07260.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07230.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07377.JPG){: .mx-auto.d-block :}
+![BT](https://beautifuljekyll.com/assets/img/VSP07236.JPG){: .mx-auto.d-block :}
 
 
 Nếu [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
