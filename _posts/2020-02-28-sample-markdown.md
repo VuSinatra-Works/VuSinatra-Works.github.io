@@ -28,6 +28,6 @@ author: VuSinatra
 ![BT](/assets/img/VSP07236.JPG){: .mx-auto.d-block :}  
 
 
-Nếu bạn có hứng thú và muốn xem thêm ảnh thì hãy check qua [Link Drive](https://drive.google.com/drive/folders/1DfqdYsPdV0XgCb79WhCCD0Bsq1lfKVQJ?usp=sharing)này nhé!
+Nếu bạn có hứng thú và muốn xem thêm ảnh thì hãy check qua [Link Drive](https://drive.google.com/drive/folders/1DfqdYsPdV0XgCb79WhCCD0Bsq1lfKVQJ?usp=sharing) này nhé!
 
-##### - VuSinatra
+#### - VuSinatra
