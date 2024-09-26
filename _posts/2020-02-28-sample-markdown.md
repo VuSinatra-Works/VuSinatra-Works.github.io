@@ -18,14 +18,16 @@ author: VuSinatra
 ## Đây là một số những bức ảnh mình đã chụp tại quầy của **[CLB Tiếng Anh BeesTalk](https://www.facebook.com/beestalkfpoly)**!
 
 
-![BT](/assets/img/VSP07241.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07213.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07247.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07235.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07260.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07230.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07377.JPG){: .mx-auto.d-block :}
-![BT](/assets/img/VSP07236.JPG){: .mx-auto.d-block :}
+![BT](/assets/img/VSP07241.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07213.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07247.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07235.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07260.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07230.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07377.JPG){: .mx-auto.d-block :}  
+![BT](/assets/img/VSP07236.JPG){: .mx-auto.d-block :}  
 
 
-Nếu [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+Nếu bạn có hứng thú và muốn xem thêm ảnh thì hãy check qua [Link Drive](https://drive.google.com/drive/folders/1DfqdYsPdV0XgCb79WhCCD0Bsq1lfKVQJ?usp=sharing)này nhé!
+
+##### - VuSinatra
