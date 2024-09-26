@@ -3,7 +3,7 @@ layout: post
 title: Những Sản Phẩm Của Mình!
 subtitle: File: Chào Tân Sinh Viên 20.3 FPoly
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, follow]
+gh-badge: [star, fork,follow]
 tags: [Photograph]
 comments: true
 mathjax: true
